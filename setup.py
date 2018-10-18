@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(
-    name="sample",
+    name="testpoc",
     version="0.0.1",
     author="Example Author",
     author_email="author@example.com",
